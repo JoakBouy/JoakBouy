@@ -45,4 +45,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-profile-trophy.vercel.app/?username=JoakBouy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://pbs.twimg.com/media/FhDNHf5UAAAKA0R?format=jpg&name=900x900" width="105%"/>
+<img src="https://project-assets.showwcase.com/11412/1668247386002-FhVrecpUUAMgmzT.png" width="105%"/>
