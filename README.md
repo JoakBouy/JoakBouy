@@ -41,5 +41,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/JoakBouy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoakBouy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### 😂 Random Dev Meme
-<img src="https://project-assets.showwcase.com/11412/1668247386002-FhVrecpUUAMgmzT.png" width="105%"/>
+
