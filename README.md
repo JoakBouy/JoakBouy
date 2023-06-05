@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [bouygai3@gmail.com](mailto:bouygai3@gmail.com)
-* 🧠  I'm currently learning Linear Regression
+* 🧠  I'm currently learning Cyber Security
 
 ### Skills
  <table><tr><td valign="top" width="33%">
