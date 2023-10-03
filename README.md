@@ -64,10 +64,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>  
 
 
-
-### Github Contributions
-![snake gif](https://github.com/JoakBouy/JoakBouy/blob/output/github-contribution-grid-snake.gif)
-
 ### Socials
 
 <p align="center"> <a href="https://discord.com/users/JoakBouy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="70" height="70" /></a> <a href="https://www.github.com/Buoy-tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="70" height="70" /></a></p>
